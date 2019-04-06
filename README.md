@@ -1,1 +1,3 @@
 # DoublyLinkedList
+
+Author: Jacob Hamilton
